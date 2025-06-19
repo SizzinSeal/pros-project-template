@@ -1,7 +1,7 @@
 # pros-project-template
 
-PROS version: 4.2.1
-LVGL version: 9.2.0
+PROS: 4.2.1 <br>
+LVGL: 9.2.0
 
 This template repository let's you easily create a new PROS project, one that's published to GitHub from the start.
 

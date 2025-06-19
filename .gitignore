@@ -8,7 +8,6 @@
 
 # PROS
 bin/
-.vscode/
 .cache/
 compile_commands.json
 temp.log
@@ -19,3 +18,7 @@ temp.errors
 
 # MacOS
 .DS_Store
+
+# VSCode
+.vscode/**
+!extensions.json

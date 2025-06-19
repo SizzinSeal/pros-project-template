@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.formatOnSave": true,
+    "pros.Show Welcome On Startup": false,
+}

@@ -5,6 +5,12 @@ LVGL: 9.2.0
 
 This template repository let's you easily create a new PROS project, one that's published to GitHub from the start.
 
+### VSCode settings
+
+- save on focus change (to prevent users not saving before building)
+- format code on save
+- use C/C++ extension for formatting
+
 ### VSCode Extensions
 
 When opening this project on VSCode, several extensions will be recommended if not installed:

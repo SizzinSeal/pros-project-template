@@ -20,5 +20,6 @@ temp.errors
 .DS_Store
 
 # VSCode
-.vscode/**
+.vscode/*
+!.vscode
 !extensions.json

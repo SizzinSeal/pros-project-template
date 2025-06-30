@@ -5,6 +5,11 @@ LVGL: 9.2.0
 
 This template repository let's you easily create a new PROS project, one that's published to GitHub from the start.
 
+### Shortcuts
+
+Build & Upload - `ctrl+shift+m`
+Open Docs - `ctrl+shift+a`
+
 ### VSCode settings
 
 - save on focus change (to prevent users not saving before building)
